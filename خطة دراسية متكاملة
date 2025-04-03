@@ -1,0 +1,271 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/index.html
+Subject: =?utf-8?Q?=D8=AE=D8=B7=D8=A9=20=D8=AF=D8=B1=D8=A7=D8=B3=D9=8A=D8=A9=20=D9?=
+ =?utf-8?Q?=85=D8=AA=D9=83=D8=A7=D9=85=D9=84=D8=A9?=
+Date: Thu, 3 Apr 2025 22:00:42 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--8VHH0NmnNALldsY6V2EFV0xX6hQOGblGolwsQqR6e2----"
+
+
+------MultipartBoundary--8VHH0NmnNALldsY6V2EFV0xX6hQOGblGolwsQqR6e2----
+Content-Type: text/html
+Content-ID: <frame-AB78D04F80A70414C4308A99E6BC7E16@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/index.html
+
+<!DOCTYPE html><html lang="ar" dir="rtl"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-751a623a-dff9-4166-9387-81d6f6a95bd9@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-72b13496-cad2-44d2-b896-677c8d1848e4@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Injected code, this is not present in original code -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خطة دراسية متكاملة</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&amp;display=swap" rel="stylesheet">
+    
+</head><c-toggler style="transform: translate(2px, 437px); display: none;"></c-toggler>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>خطة دراسية متكاملة</h1>
+            <p>برنامج لتنظيم المذاكرة بكفاءة</p>
+        </div>
+        
+        <div class="controls">
+            <button class="btn btn-print">طباعة الخطة</button>
+            <button class="btn">حفظ الخطة</button>
+            <button class="btn btn-clear">مسح الكل</button>
+            <button class="btn btn-add-col">إضافة مادة جديدة</button>
+            <div class="add-col-controls" id="addColControls" style="display: none;">
+                <input type="text" id="newSubjectName" class="new-subject-input" placeholder="اسم المادة الجديدة">
+                <button class="btn">تأكيد</button>
+                <button class="btn btn-clear">إلغاء</button>
+            </div>
+        </div>
+        
+        <div class="table-container">
+            <table class="study-plan">
+                <thead id="tableHeader"><tr><th class="day-cell">اليوم</th><th class="subject-header">عربي<button class="remove-col-btn">×</button></th><th class="subject-header">كيمياء<button class="remove-col-btn">×</button></th><th class="subject-header">فيزياء<button class="remove-col-btn">×</button></th><th class="subject-header">إنجليزي<button class="remove-col-btn">×</button></th><th class="subject-header">رياضيات بحتة<button class="remove-col-btn">×</button></th><th class="subject-header">رياضيات تطبيقية<button class="remove-col-btn">×</button></th><th class="subject-header">رت<button class="remove-col-btn">×</button></th><th class="subject-header">زى<button class="remove-col-btn">×</button></th></tr></thead>
+                <tbody id="studyPlan"><tr><td class="day-cell">1</td><td><textarea class="editable-cell" id="day-1-عربي" data-day="1" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-كيمياء" data-day="1" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-فيزياء" data-day="1" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-إنجليزي" data-day="1" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-رياضيات-بحتة" data-day="1" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-رياضيات-تطبيقية" data-day="1" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-رت" data-day="1" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-1-زى" data-day="1" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">2</td><td><textarea class="editable-cell" id="day-2-عربي" data-day="2" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-كيمياء" data-day="2" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-فيزياء" data-day="2" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-إنجليزي" data-day="2" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-رياضيات-بحتة" data-day="2" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-رياضيات-تطبيقية" data-day="2" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-رت" data-day="2" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-2-زى" data-day="2" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">3</td><td><textarea class="editable-cell" id="day-3-عربي" data-day="3" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-كيمياء" data-day="3" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-فيزياء" data-day="3" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-إنجليزي" data-day="3" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-رياضيات-بحتة" data-day="3" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-رياضيات-تطبيقية" data-day="3" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-رت" data-day="3" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-3-زى" data-day="3" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">4</td><td><textarea class="editable-cell" id="day-4-عربي" data-day="4" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-كيمياء" data-day="4" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-فيزياء" data-day="4" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-إنجليزي" data-day="4" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-رياضيات-بحتة" data-day="4" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-رياضيات-تطبيقية" data-day="4" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-رت" data-day="4" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-4-زى" data-day="4" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">5</td><td><textarea class="editable-cell" id="day-5-عربي" data-day="5" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-كيمياء" data-day="5" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-فيزياء" data-day="5" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-إنجليزي" data-day="5" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-رياضيات-بحتة" data-day="5" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-رياضيات-تطبيقية" data-day="5" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-رت" data-day="5" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-5-زى" data-day="5" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">6</td><td><textarea class="editable-cell" id="day-6-عربي" data-day="6" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-كيمياء" data-day="6" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-فيزياء" data-day="6" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-إنجليزي" data-day="6" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-رياضيات-بحتة" data-day="6" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-رياضيات-تطبيقية" data-day="6" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-رت" data-day="6" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-6-زى" data-day="6" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">7</td><td><textarea class="editable-cell" id="day-7-عربي" data-day="7" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-كيمياء" data-day="7" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-فيزياء" data-day="7" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-إنجليزي" data-day="7" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-رياضيات-بحتة" data-day="7" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-رياضيات-تطبيقية" data-day="7" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-رت" data-day="7" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-7-زى" data-day="7" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">8</td><td><textarea class="editable-cell" id="day-8-عربي" data-day="8" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-كيمياء" data-day="8" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-فيزياء" data-day="8" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-إنجليزي" data-day="8" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-رياضيات-بحتة" data-day="8" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-رياضيات-تطبيقية" data-day="8" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-رت" data-day="8" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-8-زى" data-day="8" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">9</td><td><textarea class="editable-cell" id="day-9-عربي" data-day="9" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-كيمياء" data-day="9" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-فيزياء" data-day="9" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-إنجليزي" data-day="9" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-رياضيات-بحتة" data-day="9" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-رياضيات-تطبيقية" data-day="9" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-رت" data-day="9" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-9-زى" data-day="9" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">10</td><td><textarea class="editable-cell" id="day-10-عربي" data-day="10" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-كيمياء" data-day="10" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-فيزياء" data-day="10" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-إنجليزي" data-day="10" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-رياضيات-بحتة" data-day="10" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-رياضيات-تطبيقية" data-day="10" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-رت" data-day="10" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-10-زى" data-day="10" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">11</td><td><textarea class="editable-cell" id="day-11-عربي" data-day="11" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-كيمياء" data-day="11" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-فيزياء" data-day="11" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-إنجليزي" data-day="11" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-رياضيات-بحتة" data-day="11" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-رياضيات-تطبيقية" data-day="11" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-رت" data-day="11" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-11-زى" data-day="11" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">12</td><td><textarea class="editable-cell" id="day-12-عربي" data-day="12" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-كيمياء" data-day="12" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-فيزياء" data-day="12" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-إنجليزي" data-day="12" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-رياضيات-بحتة" data-day="12" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-رياضيات-تطبيقية" data-day="12" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-رت" data-day="12" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-12-زى" data-day="12" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">13</td><td><textarea class="editable-cell" id="day-13-عربي" data-day="13" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-كيمياء" data-day="13" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-فيزياء" data-day="13" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-إنجليزي" data-day="13" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-رياضيات-بحتة" data-day="13" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-رياضيات-تطبيقية" data-day="13" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-رت" data-day="13" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-13-زى" data-day="13" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">14</td><td><textarea class="editable-cell" id="day-14-عربي" data-day="14" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-كيمياء" data-day="14" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-فيزياء" data-day="14" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-إنجليزي" data-day="14" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-رياضيات-بحتة" data-day="14" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-رياضيات-تطبيقية" data-day="14" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-رت" data-day="14" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-14-زى" data-day="14" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">15</td><td><textarea class="editable-cell" id="day-15-عربي" data-day="15" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-كيمياء" data-day="15" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-فيزياء" data-day="15" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-إنجليزي" data-day="15" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-رياضيات-بحتة" data-day="15" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-رياضيات-تطبيقية" data-day="15" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-رت" data-day="15" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-15-زى" data-day="15" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">16</td><td><textarea class="editable-cell" id="day-16-عربي" data-day="16" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-كيمياء" data-day="16" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-فيزياء" data-day="16" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-إنجليزي" data-day="16" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-رياضيات-بحتة" data-day="16" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-رياضيات-تطبيقية" data-day="16" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-رت" data-day="16" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-16-زى" data-day="16" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">17</td><td><textarea class="editable-cell" id="day-17-عربي" data-day="17" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-كيمياء" data-day="17" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-فيزياء" data-day="17" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-إنجليزي" data-day="17" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-رياضيات-بحتة" data-day="17" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-رياضيات-تطبيقية" data-day="17" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-رت" data-day="17" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-17-زى" data-day="17" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">18</td><td><textarea class="editable-cell" id="day-18-عربي" data-day="18" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-كيمياء" data-day="18" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-فيزياء" data-day="18" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-إنجليزي" data-day="18" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-رياضيات-بحتة" data-day="18" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-رياضيات-تطبيقية" data-day="18" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-رت" data-day="18" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-18-زى" data-day="18" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">19</td><td><textarea class="editable-cell" id="day-19-عربي" data-day="19" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-كيمياء" data-day="19" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-فيزياء" data-day="19" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-إنجليزي" data-day="19" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-رياضيات-بحتة" data-day="19" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-رياضيات-تطبيقية" data-day="19" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-رت" data-day="19" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-19-زى" data-day="19" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">20</td><td><textarea class="editable-cell" id="day-20-عربي" data-day="20" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-كيمياء" data-day="20" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-فيزياء" data-day="20" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-إنجليزي" data-day="20" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-رياضيات-بحتة" data-day="20" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-رياضيات-تطبيقية" data-day="20" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-رت" data-day="20" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-20-زى" data-day="20" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">21</td><td><textarea class="editable-cell" id="day-21-عربي" data-day="21" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-كيمياء" data-day="21" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-فيزياء" data-day="21" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-إنجليزي" data-day="21" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-رياضيات-بحتة" data-day="21" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-رياضيات-تطبيقية" data-day="21" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-رت" data-day="21" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-21-زى" data-day="21" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">22</td><td><textarea class="editable-cell" id="day-22-عربي" data-day="22" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-كيمياء" data-day="22" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-فيزياء" data-day="22" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-إنجليزي" data-day="22" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-رياضيات-بحتة" data-day="22" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-رياضيات-تطبيقية" data-day="22" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-رت" data-day="22" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-22-زى" data-day="22" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">23</td><td><textarea class="editable-cell" id="day-23-عربي" data-day="23" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-كيمياء" data-day="23" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-فيزياء" data-day="23" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-إنجليزي" data-day="23" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-رياضيات-بحتة" data-day="23" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-رياضيات-تطبيقية" data-day="23" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-رت" data-day="23" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-23-زى" data-day="23" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">24</td><td><textarea class="editable-cell" id="day-24-عربي" data-day="24" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-كيمياء" data-day="24" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-فيزياء" data-day="24" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-إنجليزي" data-day="24" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-رياضيات-بحتة" data-day="24" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-رياضيات-تطبيقية" data-day="24" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-رت" data-day="24" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-24-زى" data-day="24" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr><tr><td class="day-cell">25</td><td><textarea class="editable-cell" id="day-25-عربي" data-day="25" data-subject="عربي" placeholder="عربي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-كيمياء" data-day="25" data-subject="كيمياء" placeholder="كيمياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-فيزياء" data-day="25" data-subject="فيزياء" placeholder="فيزياء" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-إنجليزي" data-day="25" data-subject="إنجليزي" placeholder="إنجليزي" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-رياضيات-بحتة" data-day="25" data-subject="رياضيات بحتة" placeholder="رياضيات بحتة" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-رياضيات-تطبيقية" data-day="25" data-subject="رياضيات تطبيقية" placeholder="رياضيات تطبيقية" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-رت" data-day="25" data-subject="رت" placeholder="رت" style="height: 80px; width: 151px;"></textarea></td><td><textarea class="editable-cell" id="day-25-زى" data-day="25" data-subject="زى" placeholder="زى" style="height: 80px; width: 151px;"></textarea></td></tr></tbody>
+            </table>
+        </div>
+        
+        <div class="footer-controls">
+            <button class="footer-btn btn-add">إضافة يوم</button>
+            <button class="footer-btn btn-add-5">إضافة 5 أيام</button>
+            <button class="footer-btn btn-remove">حذف آخر يوم</button>
+        </div>
+    </div>
+
+    
+
+</body></html>
+------MultipartBoundary--8VHH0NmnNALldsY6V2EFV0xX6hQOGblGolwsQqR6e2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Tajawal; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/tajawal/v10/Iura6YBj_oCad4k1nzSBC5xLhLFw4Q.woff2") format("woff2"); unicode-range: U+600-6FF, U+750-77F, U+870-88E, U+890-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1; }
+
+@font-face { font-family: Tajawal; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/tajawal/v10/Iura6YBj_oCad4k1nzGBC5xLhLE.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Tajawal; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l8KiHrRpiZtK6GwN9w.woff2") format("woff2"); unicode-range: U+600-6FF, U+750-77F, U+870-88E, U+890-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1; }
+
+@font-face { font-family: Tajawal; font-style: normal; font-weight: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l8KiHrFpiZtK6Gw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Tajawal; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l4qkHrRpiZtK6GwN9w.woff2") format("woff2"); unicode-range: U+600-6FF, U+750-77F, U+870-88E, U+890-891, U+897-8E1, U+8E3-8FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1; }
+
+@font-face { font-family: Tajawal; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/tajawal/v10/Iurf6YBj_oCad4k1l4qkHrFpiZtK6Gw.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--8VHH0NmnNALldsY6V2EFV0xX6hQOGblGolwsQqR6e2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-72b13496-cad2-44d2-b896-677c8d1848e4@mhtml.blink
+
+@charset "utf-8";
+
+:root { --primary: #5e35b1; --secondary: #3949ab; --accent: #ffab00; --text: #263238; --border: #e0e0e0; --hover-bg: #f5f5f5; }
+
+* { box-sizing: border-box; margin: 0px; padding: 0px; }
+
+body { font-family: Tajawal, sans-serif; background: rgb(250, 250, 250); padding: 20px; color: var(--text); line-height: 1.5; }
+
+.container { max-width: 100%; margin: 0px auto; box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px; border-radius: 10px; overflow: hidden; background: white; }
+
+.header { background: linear-gradient(135deg, var(--primary), var(--secondary)); color: white; padding: 20px; text-align: center; }
+
+.header h1 { font-size: 24px; margin-bottom: 5px; }
+
+.controls { padding: 15px; background: rgb(245, 245, 245); text-align: center; border-bottom: 1px solid var(--border); display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+
+.btn { padding: 8px 20px; border: none; border-radius: 5px; background: var(--primary); color: white; font-family: Tajawal; font-weight: 500; cursor: pointer; transition: 0.3s; }
+
+.btn:hover { opacity: 0.9; transform: translateY(-2px); }
+
+.btn-print { background: rgb(46, 204, 113); }
+
+.btn-clear { background: rgb(231, 76, 60); }
+
+.btn-add-col { background: rgb(155, 89, 182); }
+
+.table-container { width: 100%; overflow-x: auto; padding: 5px; }
+
+.study-plan { width: 100%; border-collapse: collapse; table-layout: auto; }
+
+.study-plan th { background: rgb(248, 249, 250); color: var(--text); padding: 15px 10px; text-align: center; font-weight: 700; border: 1px solid var(--border); position: sticky; top: 0px; min-width: 150px; }
+
+.study-plan td { border: 1px solid var(--border); padding: 0px; vertical-align: middle; background: white; min-width: 150px; }
+
+.day-cell { background: rgba(94, 53, 177, 0.05); color: var(--primary); font-weight: bold; text-align: center; padding: 15px; width: 80px; }
+
+.editable-cell { width: 100%; min-height: 80px; padding: 15px; display: flex; align-items: center; justify-content: center; text-align: center; outline: none; overflow: hidden; word-break: break-word; white-space: pre-wrap; resize: both; border: none; font-family: Tajawal; font-size: 14px; min-width: 150px; transition: 0.3s; }
+
+.editable-cell:focus { background: rgba(255, 171, 0, 0.05); box-shadow: inset 0 0 0 2px var(--accent); }
+
+.footer-controls { padding: 15px; background: rgb(245, 245, 245); text-align: center; border-top: 1px solid var(--border); display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
+
+.footer-btn { padding: 8px 20px; border: none; border-radius: 5px; color: white; font-family: Tajawal; font-weight: 500; cursor: pointer; min-width: 120px; transition: 0.3s; }
+
+.footer-btn:hover { opacity: 0.9; transform: translateY(-2px); }
+
+.btn-add { background: rgb(39, 174, 96); }
+
+.btn-add-5 { background: rgb(22, 160, 133); }
+
+.btn-remove { background: rgb(192, 57, 43); }
+
+.subject-header { position: relative; transition: 0.3s; }
+
+.subject-header:hover { background: rgb(224, 224, 224); }
+
+.remove-col-btn { position: absolute; left: 5px; top: 50%; transform: translateY(-50%); background: rgb(231, 76, 60); color: white; border: none; border-radius: 50%; width: 20px; height: 20px; font-size: 12px; cursor: pointer; display: none; transition: 0.3s; }
+
+.remove-col-btn:hover { background: rgb(192, 57, 43); transform: translateY(-50%) scale(1.1); }
+
+.subject-header:hover .remove-col-btn { display: block; }
+
+.new-subject-input { padding: 8px; border: 1px solid var(--border); border-radius: 5px; margin-left: 10px; font-family: Tajawal; transition: 0.3s; }
+
+.new-subject-input:focus { border-color: var(--primary); outline: none; box-shadow: rgba(94, 53, 177, 0.2) 0px 0px 0px 2px; }
+
+.add-col-controls { display: flex; align-items: center; gap: 5px; }
+
+@media print {
+  body { background: white; padding: 0px; }
+  .container { box-shadow: none; }
+  .controls, .footer-controls { display: none; }
+  .editable-cell { resize: none; border: 1px solid rgb(221, 221, 221) !important; }
+  .study-plan { break-after: page; }
+  .remove-col-btn { display: none !important; }
+}
+------MultipartBoundary--8VHH0NmnNALldsY6V2EFV0xX6hQOGblGolwsQqR6e2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-751a623a-dff9-4166-9387-81d6f6a95bd9@mhtml.blink
+
+@charset "utf-8";
+
+c-toggler { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px; position: fixed; top: 0px; left: 0px; height: 30px; width: 30px; background-color: rgb(255, 255, 255); transform-origin: center center; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; z-index: 99999; opacity: 0.5; }
+
+c-object { color: rgb(153, 153, 255); text-decoration: underline; }
+
+c-toggler:active { box-shadow: rgba(0, 0, 0, 0.4) -1px 1px 4px; }
+
+c-line { display: block; }
+
+c-console { box-sizing: border-box; overflow-y: auto; position: fixed; top: 0px; left: 0px; height: 100vh; width: 100vw; background-color: rgb(49, 49, 49); z-index: 99998; color: rgb(238, 238, 238); font-family: Roboto, sans-serif; }
+
+c-console[title] { padding-top: 65px; animation: 0.1s ease 0s 1 normal none running --page-transition; }
+
+c-console br:last-of-type { display: none; }
+
+c-console textarea { color: rgb(255, 255, 255); background-color: inherit; caret-color: currentcolor !important; }
+
+c-input { display: flex; width: 100%; height: fit-content; }
+
+c-input::before { content: ">>"; margin: 0px 5px; height: 100%; }
+
+#__c-input { width: 100%; border: none; resize: none; height: 200px; position: relative; background-color: rgba(0, 0, 0, 0); overflow: visible; }
+
+#__c-input:focus { outline: none; }
+
+c-console[title]::before { position: fixed; top: 0px; left: 0px; width: 100vw; background-color: inherit; z-index: 999999; content: attr(title); display: flex; height: 44px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 900; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; margin-bottom: 10px; color: rgb(255, 255, 255); font-size: medium; }
+
+c-message { position: relative; display: flex; border-bottom: 1px solid rgba(204, 204, 204, 0.4); margin-bottom: 35px; font-size: 0.9rem; flex-wrap: wrap; }
+
+c-code { position: relative; color: rgb(214, 211, 211); font-size: 1em; font-family: "Courier New", Courier, monospace; overflow-x: auto; white-space: pre; margin-bottom: 0px; }
+
+c-code::after { content: "use"; background-color: rgb(102, 102, 102); color: inherit; border-radius: 4px; padding: 0px 0.4rem; font-size: 0.6rem; }
+
+c-code::before { content: ">>"; padding: 0px 5px; font-style: italic; }
+
+c-key { font-size: 0.9rem; color: rgb(204, 102, 255); }
+
+c-message[log-level="error"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(68, 34, 34); color: inherit; }
+
+c-message[log-level="error"]::after { background-color: rgb(204, 67, 67); color: inherit; }
+
+c-message[log-level="warn"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(102, 51, 51); color: inherit; }
+
+c-message[log-level="warn"]::after { background-color: rgb(204, 105, 105); color: inherit; }
+
+c-stack:not(:empty) { content: attr(data-stack); font-family: Verdana, Geneva, Tahoma, sans-serif; position: absolute; top: 100%; right: 0px; display: flex; height: 20px; -webkit-box-align: center; align-items: center; -webkit-box-pack: justify; justify-content: space-between; width: 100vw; background-color: inherit; padding: 0px 5px; box-sizing: border-box; font-size: 0.8rem; color: inherit; }
+
+c-text { padding: 2px 2px 2px 10px; font-family: Verdana, Geneva, Tahoma, sans-serif; overflow: auto; box-sizing: border-box; max-width: 100vw; font-size: 0.9rem; width: 100%; white-space: break-spaces; }
+
+c-text.__c-boolean { color: rgb(130, 80, 177); }
+
+c-text.__c-number { color: rgb(97, 88, 221); }
+
+c-text.__c-symbol { color: rgb(111, 89, 172); }
+
+c-text.__c-function { color: rgb(145, 136, 168); font-family: "Courier New", Courier, monospace; font-size: 0.9rem; }
+
+c-text.__c-function::before { content: "ƒ"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
+
+c-text.__c-object, c-text.__c-undefined { color: rgb(118, 163, 118); }
+
+c-text.__c-string { color: rgb(59, 161, 59); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-message.error c-text { overflow: unset; white-space: pre-wrap; word-break: break-word; color: rgb(255, 255, 255); }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 2.5px; }
+
+c-type[type="body-toggler"]::after { content: "{...}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; border-spacing: 0px; font-size: 0.9rem; color: rgb(214, 211, 211); border: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row:last-child { border-bottom: none; }
+
+c-table c-row:first-child { font-weight: bold; }
+
+c-table c-cell { display: table-cell; padding: 5px; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-cell:not(:last-child) { border-left: 1px solid rgba(204, 204, 204, 0.4); }
+
+@-webkit-keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+
+@keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+------MultipartBoundary--8VHH0NmnNALldsY6V2EFV0xX6hQOGblGolwsQqR6e2------
